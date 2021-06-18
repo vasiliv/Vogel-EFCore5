@@ -294,3 +294,15 @@ G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\obj\Debug\netcoreapp3.1\EFCor
 G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\obj\Debug\netcoreapp3.1\EFCore5WebApp.Core.Tests.dll
 G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\obj\Debug\netcoreapp3.1\EFCore5WebApp.Core.Tests.pdb
 G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\obj\Debug\netcoreapp3.1\EFCore5WebApp.Core.Tests.genruntimeconfig.cache
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Projects\Vogel-EFCore5\EFCore5WebApp.Core.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll

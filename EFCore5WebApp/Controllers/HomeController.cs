@@ -6,21 +6,29 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using EFCore5WebApp.Models;
+using EFCore5WebApp.Core.Entities;
+using EFCore5WebApp.DAL;
+using EFCOre5WebApp.DAL;
 
 namespace EFCore5WebApp.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly AppDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, AppDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var persons = from p in _context.Persons
+                          where p.FirstName == "Susan"
+                          select p;
+            return View(persons);
         }
 
         public IActionResult Privacy()
